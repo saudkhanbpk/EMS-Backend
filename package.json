@@ -1,0 +1,11 @@
+{
+  "name": "ems-backend",
+  "version": "1.0.0",
+  "description": "this is the backend for the ems",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "asadkhan",
+  "license": "ISC"
+}
